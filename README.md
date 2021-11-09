@@ -1,7 +1,9 @@
 # Hi 👋, I'm Marc !
 
-Contact me at <a href="mailto:nguyen_marc@live.fr">
-<img src="https://img.shields.io/badge/-nguyen_marc@live.fr-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>. Do not hesitate to use PGP, I will use your public key too!
+<a href="mailto:nguyen_marc@live.fr">
+<img src="https://img.shields.io/badge/-nguyen_marc@live.fr-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
+
+Do not hesitate to use PGP, I will use your public key too!
 
 <details>
   <summary>PGP Public Key</summary>
