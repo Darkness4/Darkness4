@@ -42,3 +42,6 @@ MGakfyiAayMKhTYsbK5CFR1UJB/lwJsklARxKisNZ5xZDCT9Zqp0yLo=
 ```
 
 </details>
+
+![Darkness4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkness4&count_private=true)
+
