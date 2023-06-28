@@ -1,6 +1,6 @@
 # Hi 👋, I'm Marc!
 
-I'm a Software DevOps engineer. I follow DevOps practices and develop any type of software! I also make games and mobile development with Android.
+I'm a DevOps software engineer. I follow DevOps practices and develop all kinds of software! I also do mobile development with Android Kotlin, and sometimes a bit of game development.
 
 ## 🔧 My daily tools
 
