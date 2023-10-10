@@ -28,4 +28,4 @@ Don't hesitate to use PGP, I will use your public key too!
 
 ## 📊 Some stats
 
-![Darkness4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkness4&count_private=true)
+![Darkness4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkness4&count_private=true&include_all_commits=true)
