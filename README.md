@@ -2,6 +2,8 @@
 
 I'm a DevOps software engineer. I follow DevOps practices and develop all kinds of software! I also do mobile development with Android Kotlin, and sometimes a bit of game development.
 
+My technical blog: [blog.mnguyen.fr](https://blog.mnguyen.fr).
+
 ## 🔧 My daily tools
 
 These are the tools I use every day, for prototyping or hobby:
