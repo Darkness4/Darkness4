@@ -20,7 +20,6 @@ I also use other programming languages and tools... but this isn't a CV.
 
 ## 🔗 Contact with me
 
-[<img src="./README.assets/LI-In-Bug.png" alt="LI-In-Bug" style="height:64px;" />](https://www.linkedin.com/in/marc-nguyen-view/)
 <a href="mailto:nguyen_marc@live.fr">
 <img src="https://img.shields.io/badge/-nguyen_marc@live.fr-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
