@@ -23,9 +23,7 @@ I also use other programming languages and tools... but this isn't a CV.
 <a href="mailto:nguyen_marc@live.fr">
 <img src="https://img.shields.io/badge/-nguyen_marc@live.fr-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
-Don't hesitate to use PGP, I will use your public key too!
-
-[<img src="./README.assets/GnuPG-Logo.svg" alt="PGP" style="height:64px;" />](https://keys.openpgp.org/search?q=nguyen_marc%40live.fr)
+Don't hesitate to use PGP, I will use your public key too! [<img src="./README.assets/GnuPG-Logo.svg" alt="PGP" style="height:16px;" />](https://keys.openpgp.org/search?q=nguyen_marc%40live.fr)
 
 ## 📊 Some stats
 
